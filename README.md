@@ -23,3 +23,9 @@ Este repositorio contiene simulaciones de ejercicios de computación cuántica d
 ![Histograma](histogram.png)
 
 ### Circuito
+ ┌───┐┌───┐┌─┐
+ q_0: ┤ H ├┤ X ├┤M├
+ └───┘└───┘└╥┘
+c: 1/═══════════╩═
+             0
+
