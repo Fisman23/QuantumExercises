@@ -29,3 +29,9 @@ Este repositorio contiene simulaciones de ejercicios de computación cuántica d
 c: 1/═══════════╩═
              0
 
+
+## Autor
+Carlos Guagnelli - Estudiante de ciberseguridad y computación cuántica. Apasionado por la intersección entre cuántica y seguridad.
+
+## Licencia
+MIT License
